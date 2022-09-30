@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="855644b9-333f-4662-8592-9ec97859d241" name="Default" comment="">
+    <list default="true" id="855644b9-333f-4662-8592-9ec97859d241" name="Default" comment="initial commit before it breaks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/training/dynamite/MyBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/training/dynamite/MyBot.java" afterDir="false" />
     </list>
@@ -191,8 +191,16 @@
       <option name="presentableId" value="Default" />
       <updated>1548267251649</updated>
       <workItem from="1548267253231" duration="7209000" />
-      <workItem from="1664529237582" duration="5137000" />
+      <workItem from="1664529237582" duration="8023000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit before it breaks">
+      <created>1664534876927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664534876927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -233,6 +241,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit before it breaks" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit before it breaks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dynamite-Java.iml">
