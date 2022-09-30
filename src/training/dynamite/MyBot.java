@@ -33,7 +33,7 @@ public class MyBot implements Bot {
                 if (theirMove1Ago == theirMove2Ago) {
                     return this.getCounterMove(theirMove1Ago.getP1());
                 } else if (theirMove2Ago == theirMove4Ago) {
-                    return this.getCounterMove(theirMove1Ago.getP1());
+                    return this.getCounterMove(theirMove2Ago.getP1());
                 } else {
                     DynamiteUsed++;
                     return Move.D;

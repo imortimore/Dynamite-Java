@@ -6,8 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="855644b9-333f-4662-8592-9ec97859d241" name="Default" comment="working but still bad :(">
+    <list default="true" id="855644b9-333f-4662-8592-9ec97859d241" name="Default" comment="logic fixed?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/training/dynamite/MyBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/training/dynamite/MyBot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1548267251649</updated>
       <workItem from="1548267253231" duration="7209000" />
-      <workItem from="1664529237582" duration="12999000" />
+      <workItem from="1664529237582" duration="13938000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit before it breaks">
       <created>1664534876927</created>
@@ -213,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664544202927</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="logic fixed?">
+      <created>1664547390601</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664547390601</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -270,7 +278,8 @@
     <MESSAGE value="initial commit before it breaks" />
     <MESSAGE value="logic decided commit before it breaks v2" />
     <MESSAGE value="working but still bad :(" />
-    <option name="LAST_COMMIT_MESSAGE" value="working but still bad :(" />
+    <MESSAGE value="logic fixed?" />
+    <option name="LAST_COMMIT_MESSAGE" value="logic fixed?" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dynamite-Java.iml">
