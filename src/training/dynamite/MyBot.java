@@ -23,7 +23,7 @@ public class MyBot implements Bot {
         //logic with Dynamite present
         while (DynamiteUsed >= 100) {
             //if game is started start with a D
-            if (gamestate.getRounds().size() >= 4) {
+            if (gamestate.getRounds().size() < 4) {
                 DynamiteUsed++;
                 return Move.D;
             } else {
@@ -43,8 +43,8 @@ public class MyBot implements Bot {
         return this.getRandomMove();
     }
 
-    private Move getCounterMove(Move theirLastMove) {
-        switch (theirLastMove) {
+    private Move getCounterMove(Move theirMove2Ago) {
+        switch (theirMove2Ago) {
             case R:
                 return Move.P;
             case P:
